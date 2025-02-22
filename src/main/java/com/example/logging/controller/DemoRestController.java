@@ -15,6 +15,8 @@ public class DemoRestController {
 		
 		String msg = "Welcome to Rajat tech..";
 		
+		int result = 10/0;
+		
 		logger.info("get welcome message execution ended");
 		return msg;
 	}

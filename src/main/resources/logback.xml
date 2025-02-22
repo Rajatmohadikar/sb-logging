@@ -9,7 +9,7 @@
 
 	<appender name="RollingFile"
 		class="ch.qos.logback.core.rolling.RollingFileAppender">
-		<file>MyApp.log</file>
+		<file>logs/MyApp.log</file>
 		<encoder>
 			<pattern>%d [%thread] %-5level %-50logger{40} - %msg%n</pattern>
 		</encoder>

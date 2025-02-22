@@ -15,6 +15,12 @@ public class GreetController {
 		logger.info("getGreetMesg() execution started...");
 		String msg = "Good evening";
 		logger.info("getGreetMesg() execution ended...");
+		
+		try {
+			int res = 10/0;
+		} catch (Exception e) {
+			logger.error("Exception has been occured: "+e.getMessage());
+		}
 
 		return msg;
 	}
