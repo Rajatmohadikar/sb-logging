@@ -1,0 +1,92 @@
+2025-02-18 17:37:55,014 [http-nio-9999-exec-6] INFO  c.e.logging.controller.GreetController             - getGreetMesg() execution started...
+2025-02-18 17:37:55,014 [http-nio-9999-exec-6] INFO  c.e.logging.controller.GreetController             - getGreetMesg() execution ended...
+2025-02-18 17:38:46,484 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-02-18 17:38:46,486 [Thread-11] INFO  o.s.b.w.embedded.tomcat.GracefulShutdown           - Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-18 17:38:46,487 [tomcat-shutdown] INFO  o.apache.coyote.http11.Http11NioProtocol           - Pausing ProtocolHandler ["http-nio-9999"]
+2025-02-18 17:38:46,710 [tomcat-shutdown] INFO  o.s.b.w.embedded.tomcat.GracefulShutdown           - Graceful shutdown complete
+2025-02-18 17:38:46,711 [Thread-11] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-9999"]
+2025-02-18 17:38:46,783 [restartedMain] INFO  c.example.logging.SbLoggingApplication             - Starting SbLoggingApplication using Java 17.0.11 with PID 23936 (D:\STS_Workspace\sb-logging\target\classes started by rajatm in D:\STS_Workspace\sb-logging)
+2025-02-18 17:38:46,783 [restartedMain] INFO  c.example.logging.SbLoggingApplication             - No active profile set, falling back to 1 default profile: "default"
+2025-02-18 17:38:46,948 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port 9999 (http)
+2025-02-18 17:38:46,949 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-9999"]
+2025-02-18 17:38:46,949 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2025-02-18 17:38:46,949 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-02-18 17:38:46,972 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2025-02-18 17:38:46,973 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 187 ms
+2025-02-18 17:38:47,024 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2025-02-18 17:38:47,029 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-9999"]
+2025-02-18 17:38:47,034 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port 9999 (http) with context path '/'
+2025-02-18 17:38:47,040 [restartedMain] INFO  c.example.logging.SbLoggingApplication             - Started SbLoggingApplication in 0.292 seconds (process running for 514.366)
+2025-02-18 17:38:47,041 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
+2025-02-18 17:39:02,175 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 7 class path changes (0 additions, 0 deletions, 7 modifications)
+2025-02-18 17:39:02,178 [Thread-15] INFO  o.s.b.w.embedded.tomcat.GracefulShutdown           - Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-18 17:39:02,179 [tomcat-shutdown] INFO  o.apache.coyote.http11.Http11NioProtocol           - Pausing ProtocolHandler ["http-nio-9999"]
+2025-02-18 17:39:02,725 [tomcat-shutdown] INFO  o.s.b.w.embedded.tomcat.GracefulShutdown           - Graceful shutdown complete
+2025-02-18 17:39:02,725 [Thread-15] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-9999"]
+2025-02-18 17:39:02,869 [restartedMain] INFO  c.example.logging.SbLoggingApplication             - Starting SbLoggingApplication using Java 17.0.11 with PID 23936 (D:\STS_Workspace\sb-logging\target\classes started by rajatm in D:\STS_Workspace\sb-logging)
+2025-02-18 17:39:02,871 [restartedMain] INFO  c.example.logging.SbLoggingApplication             - No active profile set, falling back to 1 default profile: "default"
+2025-02-18 17:39:03,121 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port 9999 (http)
+2025-02-18 17:39:03,121 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-9999"]
+2025-02-18 17:39:03,121 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2025-02-18 17:39:03,121 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-02-18 17:39:03,157 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2025-02-18 17:39:03,158 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 282 ms
+2025-02-18 17:39:03,243 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2025-02-18 17:39:03,253 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-9999"]
+2025-02-18 17:39:03,258 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port 9999 (http) with context path '/'
+2025-02-18 17:39:03,269 [restartedMain] INFO  c.example.logging.SbLoggingApplication             - Started SbLoggingApplication in 0.466 seconds (process running for 530.595)
+2025-02-18 17:39:03,270 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
+2025-02-18 17:39:09,084 [http-nio-9999-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-02-18 17:39:09,084 [http-nio-9999-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2025-02-18 17:39:09,086 [http-nio-9999-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 1 ms
+2025-02-18 17:39:15,456 [http-nio-9999-exec-2] INFO  c.e.logging.controller.GreetController             - getGreetMesg() execution started...
+2025-02-18 17:39:15,456 [http-nio-9999-exec-2] INFO  c.e.logging.controller.GreetController             - getGreetMesg() execution ended...
+2025-02-18 17:41:15,618 [RMI TCP Connection(14)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2025-02-18 17:41:15,619 [RMI TCP Connection(14)-127.0.0.1] INFO  o.s.b.w.embedded.tomcat.GracefulShutdown           - Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-18 17:41:15,619 [tomcat-shutdown] INFO  o.apache.coyote.http11.Http11NioProtocol           - Pausing ProtocolHandler ["http-nio-9999"]
+2025-02-18 17:41:15,835 [tomcat-shutdown] INFO  o.s.b.w.embedded.tomcat.GracefulShutdown           - Graceful shutdown complete
+2025-02-18 17:41:15,836 [RMI TCP Connection(14)-127.0.0.1] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-9999"]
+2025-02-18 17:41:26,565 [restartedMain] INFO  c.example.logging.SbLoggingApplication             - Starting SbLoggingApplication using Java 17.0.11 with PID 28164 (D:\STS_Workspace\sb-logging\target\classes started by rajatm in D:\STS_Workspace\sb-logging)
+2025-02-18 17:41:26,567 [restartedMain] INFO  c.example.logging.SbLoggingApplication             - No active profile set, falling back to 1 default profile: "default"
+2025-02-18 17:41:26,638 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor    - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-02-18 17:41:26,639 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor    - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-02-18 17:41:27,751 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port 9999 (http)
+2025-02-18 17:41:27,762 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-9999"]
+2025-02-18 17:41:27,763 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2025-02-18 17:41:27,763 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-02-18 17:41:27,836 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2025-02-18 17:41:27,837 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 1198 ms
+2025-02-18 17:41:28,205 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2025-02-18 17:41:28,225 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-9999"]
+2025-02-18 17:41:28,246 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port 9999 (http) with context path '/'
+2025-02-18 17:41:28,255 [restartedMain] INFO  c.example.logging.SbLoggingApplication             - Started SbLoggingApplication in 2.192 seconds (process running for 3.539)
+2025-02-18 17:42:11,316 [http-nio-9999-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-02-18 17:42:11,317 [http-nio-9999-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2025-02-18 17:42:11,319 [http-nio-9999-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 2 ms
+2025-02-18 17:42:44,550 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-02-18 17:42:44,560 [Thread-5] INFO  o.s.b.w.embedded.tomcat.GracefulShutdown           - Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-18 17:42:44,564 [tomcat-shutdown] INFO  o.apache.coyote.http11.Http11NioProtocol           - Pausing ProtocolHandler ["http-nio-9999"]
+2025-02-18 17:42:44,818 [tomcat-shutdown] INFO  o.s.b.w.embedded.tomcat.GracefulShutdown           - Graceful shutdown complete
+2025-02-18 17:42:44,819 [Thread-5] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-9999"]
+2025-02-18 17:42:44,914 [restartedMain] INFO  c.example.logging.SbLoggingApplication             - Starting SbLoggingApplication using Java 17.0.11 with PID 28164 (D:\STS_Workspace\sb-logging\target\classes started by rajatm in D:\STS_Workspace\sb-logging)
+2025-02-18 17:42:44,915 [restartedMain] INFO  c.example.logging.SbLoggingApplication             - No active profile set, falling back to 1 default profile: "default"
+2025-02-18 17:42:45,149 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port 9999 (http)
+2025-02-18 17:42:45,149 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-9999"]
+2025-02-18 17:42:45,150 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2025-02-18 17:42:45,150 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-02-18 17:42:45,179 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2025-02-18 17:42:45,179 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 259 ms
+2025-02-18 17:42:45,255 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2025-02-18 17:42:45,263 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-9999"]
+2025-02-18 17:42:45,267 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port 9999 (http) with context path '/'
+2025-02-18 17:42:45,272 [restartedMain] INFO  c.example.logging.SbLoggingApplication             - Started SbLoggingApplication in 0.401 seconds (process running for 80.558)
+2025-02-18 17:42:45,275 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
+2025-02-18 17:42:45,441 [http-nio-9999-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-02-18 17:42:45,445 [http-nio-9999-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2025-02-18 17:42:45,447 [http-nio-9999-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 2 ms
+2025-02-18 17:42:45,450 [http-nio-9999-exec-1] INFO  c.e.l.controller.DemoRestController                - get welcome message execution started
+2025-02-18 17:42:45,450 [http-nio-9999-exec-1] INFO  c.e.l.controller.DemoRestController                - get welcome message execution ended
+2025-02-18 17:42:46,408 [http-nio-9999-exec-2] INFO  c.e.l.controller.DemoRestController                - get welcome message execution started
+2025-02-18 17:42:46,408 [http-nio-9999-exec-2] INFO  c.e.l.controller.DemoRestController                - get welcome message execution ended
+2025-02-18 17:42:46,707 [http-nio-9999-exec-3] INFO  c.e.l.controller.DemoRestController                - get welcome message execution started
+2025-02-18 17:42:46,707 [http-nio-9999-exec-3] INFO  c.e.l.controller.DemoRestController                - get welcome message execution ended
